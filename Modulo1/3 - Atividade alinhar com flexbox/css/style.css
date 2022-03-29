@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: black;
+    
+  
+}
+
+.conteiner1 {
+    text-align: center;
+    display: flex;
+}
+
+.conteiner2 {
+    text-align: center;
+    display: flex;
+}
+
+#box1 {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 0, 0);
+    
+}
+
+#box2 {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(255, 251, 0);
+
+}
+
+#box3 {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(0, 255, 42);
+}
+
+#box4 {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(97, 17, 189);
+}
+
+.nome {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
