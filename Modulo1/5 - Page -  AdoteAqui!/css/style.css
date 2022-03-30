@@ -22,8 +22,17 @@ h1 {
     padding: 15px 0 0 15px;
 }
 
+h1:hover {
+    background-color: rgba(255, 255, 255, 0.329);
+    color: rgb(103, 66, 235);
+    background: none;
+    text-transform: uppercase;
+       
+}
+
 span {
     color: rgb(103, 66, 235);
+    
 }
 
 nav {
@@ -43,7 +52,10 @@ a {
     color: #fff;
     text-decoration: none;
     
- 
+}
+
+a:hover {
+    color: blueviolet;
 }
 
 @media screen and (max-width: 700px) {
