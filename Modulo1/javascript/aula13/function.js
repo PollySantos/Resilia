@@ -6,6 +6,6 @@ function dirigirEBeber (idade) {
     }
 }
 
-function previsaoRodagem (liros, quilometragem) {
-    return 'O carro pode rodar' + quilometragem/litros + 'km.';
+function previsaoRodagem (litros, quilometragem) {
+    return 'O carro pode rodar' + quilometragem*litros + 'km.';
 }
