@@ -9,3 +9,14 @@ function dirigirEBeber (idade) {
 function previsaoRodagem (litros, quilometragem) {
     return 'O carro pode rodar' + quilometragem*litros + 'km.';
 }
+
+//ou 
+
+function previsaoRodagem (litros) {
+    var kmPorLitros = 6
+    var podeRodar = litros * kmLitros
+    return 'Você ainda pode rodar mais' + podeRodar + 'km.'
+
+    console.log(previsaoRodagem (20))
+    
+}
