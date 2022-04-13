@@ -8,12 +8,12 @@ function validaEmail() {
     }
 }
 
-function exibirResultadoValidacao(validador) {
-    if (validador == true) {
+function exibirResultadoValidacao(validar) {
+    if (validar == true) {
         document.white('Email validado') 
     } else {
         document.white('Email fornecido INVÁLIDO')
     }
 }
 
-exibirResuldadoValidacao(validaEmail)
+exibirResuldadoValidacao(validaEmail())
