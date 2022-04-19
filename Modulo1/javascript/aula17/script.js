@@ -3,12 +3,22 @@ var nome = (prompt('Digite um numero'));
 function linhaAsterisco(n) {
     var asterisco = ""
     for (var i=0; i < n; i++) {
-       asterisco = "";
-    for (var p = 0; p <= i; p++) {
-        asterisco += "*"
+     asterisco += "*"
     }
-        console.log(linhaAsterisco)
-    }
+    return `${asterisco}`
 }
 
-linhaAsterisco(nome);
+linhaAsterisco(4)
+
+//ouro exercicio 
+var nome = (prompt('Digite um numero'));
+function trianguloAsteristico(n) {
+    var asterisco2 = ""
+    for (var i=0; i < n; i++) {
+     asterisco += "*"
+   
+    return `${asterisco}`
+  }
+}
+
+linhaAsterisco(4)
