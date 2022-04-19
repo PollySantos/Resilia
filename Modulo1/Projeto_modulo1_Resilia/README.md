@@ -41,9 +41,4 @@
   </div>
 </div>
 
-<br>
-
-<div align="center">
-  &#11165;&nbsp;<a href="#inicio"><strong>Voltar ao topo</strong></a>&nbsp;&#11165;
-</div>
 
