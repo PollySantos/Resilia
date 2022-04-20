@@ -1,6 +1,6 @@
 # Projeto final do Módulo 1: Jogo de escolhas RPG 
 
-<h2 id="sobre">Sobre </h2>
+<h2 id="sobre">Sobre o jogo </h2>
   <p>Projeto de encerramento do módulo 1, onde o objetivo foi criar um jogo de escolhas com o propósito de praticar o que aprendemos durante as aulas ministradas pelo facilitador Jarom Aidukaits .<br>
   O tema escolhido pelo meu grupo foi "D&D", criamos uma história para cada um dos 3 personagens, com enredos diferentes e especies diferentes voltado a um jogo de rpg.<br>
 
