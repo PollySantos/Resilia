@@ -1,8 +1,8 @@
 # Projeto final do Módulo 1: Jogo de escolhas RPG 
 
-<h2 id="sobre">Sobre o jogo </h2>
+<h2>Floresta de Beldoforth</h2>
   <p>Projeto de encerramento do módulo 1, onde o objetivo foi criar um jogo de escolhas com o propósito de praticar o que aprendemos durante as aulas ministradas pelo facilitador Jarom Aidukaits .<br>
-  O tema escolhido pelo meu grupo foi "D&D", criamos uma história para cada um dos 3 personagens, com enredos diferentes e especies diferentes voltado a um jogo de rpg.<br>
+  O tema escolhido pelo meu grupo foi "D&D", criamos uma história para cada um dos 3 personagens (Hobbit, Elfo e Cavaleiro), com enredos diferentes, voltado a um jogo de rpg.<br>
 
 <img src="https://user-images.githubusercontent.com/99842806/164089711-46444a22-8d46-441b-979f-06b7c08ebda2.png" alt="imagem da tela inicial do jogo">
 
@@ -19,7 +19,6 @@
   - Tags semânticas (HTML)
   - Classes (HTML)
   - Seletores e Combinadores (CSS)
-  - Gradientes (CSS)
   - Pseudo-classes (CSS)
   - Display Flex (CSS)
   - Funções (JS)
