@@ -6,7 +6,7 @@
 }
 
 body {
-  background: url(../images/floresta.jpg) fixed;
+  background: url(../images/floresta1.jpg) fixed;
   background-size: cover;
   width: 100%;
   height: 100%;
@@ -30,7 +30,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  border: 3px solid black;
+  border: 3px solid rgba(238, 241, 4, 0.979);
 }
 
 article > h1,

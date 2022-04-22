@@ -6,7 +6,7 @@
 }
 
 body {
-  background: url(../images/floresta.jpg) fixed;
+  background: url(../images/floresta1.jpg) fixed;
   background-size: cover;
   width: 100%;
   height: 100%;
@@ -31,7 +31,7 @@ body {
   justify-content: center;
   align-items: center;
   font-size: 20px;
-  border: 3px solid black;
+  border: 3px solid rgba(238, 241, 4, 0.979);
   
 }
 
@@ -82,20 +82,20 @@ footer {
 .cavaleiroimg {
   width: 7.8rem;
   height: 15.5rem;
-  border: 3px solid black;
+  border: 3px solid rgba(238, 241, 4, 0.979);
  
 }
 
 .hobbitimg {
   width: 7.8rem;
   height: 15.5rem;
-  border: 3px solid black;
+  border: 3px solid rgba(238, 241, 4, 0.979);
 }
 
 .elfoimg {
   width: 7.8rem;
   height: 15.5rem;
-  border: 3px solid black;
+  border: 3px solid rgba(238, 241, 4, 0.979);
 }
 
 .personagens img {
@@ -104,5 +104,5 @@ footer {
 }
 
 .personagens img:hover {
-  box-shadow:0 10px 16px rgba(7, 15, 8, 0.979);
+  box-shadow:0 10px 16px rgba(238, 241, 4, 0.979);
 }
