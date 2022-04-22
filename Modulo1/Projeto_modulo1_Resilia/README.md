@@ -1,6 +1,6 @@
 # Projeto final do Módulo 1: Jogo de escolhas RPG 
 
-<h2>O tesouro de Beldoforth</h2>
+<h2>A Floresta de Beldoforth</h2>
   <p>Projeto de encerramento do módulo 1, onde o objetivo foi criar um jogo de escolhas com o propósito de praticar o que aprendemos durante as aulas ministradas pelo facilitador Jarom Aidukaits .<br>
   O tema escolhido pelo meu grupo foi "D&D", criamos uma história para cada um dos 3 personagens (Hobbit, Elfo e Cavaleiro), com enredos diferentes, voltado a um jogo de rpg.<br>
 
