@@ -4,7 +4,7 @@
   <p>Projeto de encerramento do módulo 1, onde o objetivo foi criar um jogo de escolhas com o propósito de praticar o que aprendemos durante as aulas ministradas pelo facilitador Jarom Aidukaits .<br>
   O tema escolhido pelo meu grupo foi "D&D", criamos uma história para cada um dos 3 personagens (Hobbit, Elfo e Cavaleiro), com enredos diferentes, voltado a um jogo de rpg.<br>
 
-<img src="https://user-images.githubusercontent.com/99842806/164089711-46444a22-8d46-441b-979f-06b7c08ebda2.png" alt="imagem da tela inicial do jogo">
+<img src="https://user-images.githubusercontent.com/99842806/164606824-f59de9b0-6433-4598-854a-23abe0579b05.png" alt="imagem da tela inicial do jogo">
 
 <h2 id="linguagens">Softwares & Ferramentas utilizadas nesse projeto 📚</h2>
 
