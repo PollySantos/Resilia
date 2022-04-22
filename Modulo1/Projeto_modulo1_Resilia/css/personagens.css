@@ -79,30 +79,37 @@ footer {
 
 }
 
-.cavaleiroimg {
+.cavaleiroimg, .hobbitimg, .elfoimg {
   width: 7.8rem;
   height: 15.5rem;
-  border: 3px solid rgba(238, 241, 4, 0.979);
  
 }
 
-.hobbitimg {
-  width: 7.8rem;
-  height: 15.5rem;
-  border: 3px solid rgba(238, 241, 4, 0.979);
-}
-
-.elfoimg {
-  width: 7.8rem;
-  height: 15.5rem;
-  border: 3px solid rgba(238, 241, 4, 0.979);
-}
-
-.personagens img {
-  transition: 0.4s;
+.personagens img:hover{
+  transform:scale(1,0.9);
+  transition-duration: 700ms;
+  box-shadow:0 10px 16px rgba(238, 241, 4, 0.979);
   
 }
 
-.personagens img:hover {
-  box-shadow:0 10px 16px rgba(238, 241, 4, 0.979);
+@media screen and (min-width: 700px) {
+
+  .body {
+    font-size: 15px; 
+    width: 50%;
+  }
+
+  .main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: auto;
+  text-align: center;
+}
+
+.footer {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
 }
