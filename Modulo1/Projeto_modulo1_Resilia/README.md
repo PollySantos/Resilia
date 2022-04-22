@@ -2,7 +2,7 @@
 
 <h2>A Floresta de Beldoforth</h2>
   <p>Projeto de encerramento do módulo 1, onde o objetivo foi criar um jogo de escolhas com o propósito de praticar o que aprendemos durante as aulas ministradas pelo facilitador Jarom Aidukaits .<br>
-  O tema escolhido pelo meu grupo foi "D&D", criamos uma história para cada um dos 3 personagens (Hobbit, Elfo e Cavaleiro), com enredos diferentes, voltado a um jogo de rpg.<br>
+  O tema escolhido pelo meu grupo foi "D&D", criamos uma história para cada um dos 3 personagens (Hobbit, Elfo e Cavaleiro), com enredos diferentes, voltado a um jogo de rpg.<br><br>
 
 <img src="./images/projeto.png" alt="imagem da tela inicial do jogo">
 
