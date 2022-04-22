@@ -26,6 +26,10 @@
   - If, Else (JS)
   - While (JS)
   - Estruturas de repetição (JS)
+  
+  <h2 id="link">Link do projeto</h2>
+
+  https://pollysantos.github.io/Resilia/Modulo1/Projeto_modulo1_Resilia/
 
 <div id="autor" align="center">
   
