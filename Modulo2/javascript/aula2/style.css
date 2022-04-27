@@ -1,0 +1,33 @@
+div#principal {
+    display: flex;
+    width: 500px;
+    height: 500px;
+    background-color: black;
+    justify-content: center;
+    
+}
+#area1 {
+    display: flex;
+    background: #fff;
+    width:100px;
+    height:100px;
+    justify-content: center;
+    margin-right: 5%
+}
+#area2 {
+    display: flex;
+    background: #fff;
+    width: 100px;
+    height: 100px;
+    justify-content: center;
+    margin-right: 5%
+    
+}
+#area3 {
+    display: flex;
+    background: #fff;
+    width: 100px;
+    height: 100px;
+    justify-content: center;
+    
+}
