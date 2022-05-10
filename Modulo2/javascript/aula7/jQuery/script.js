@@ -1,23 +1,22 @@
-function chamaPokemon(pokemon) {
-  $.ajax({
-    url: `https://pokeapi.co/api/v2/pokemon/${pokemon}`,
-    success: function (result) {
-      montaDiv(result);
-    },
-  });
-}
+let espacoPokemon = $('#poke-info');
 
-var pesquisa = document.getElementById('submit');
+$('#pesquisar').click(function(event){
+    event.preventDefault();
 
-pesquisa.addEventListener('click', function(e) {
-  e.preventDefaut();
-  var pokeName = document.getElementById('pk-name').value.toLowerCase();
-  chamaPokemon(pokeName);
-});
+    let nome = $('#pk-name').val().toLowerCase();
+    const url = "https://pokeapi.co/api/v2/pokemon/"
+    $.ajax({url: `${url}${nome}`,
+         success: function (resultado){
+            console.log(resultado)
+            
+            $('#nomePokemon').html(`Nome: ${resultado.name}`)
+            let img = resultado.sprites.front_default;
+            $('#fotoPokemon').attr('src', img)
+            $('#codigoPokemon').html(`ID: ${resultado.id}`)
+            $('#tipoPokemon').html(`Tipo: ${resultado.types[0].type.name}`)
+           
+         }})
 
-var divPoke = document.querySelector('.poke-info');
-
-function montaDiv(pokemonInfo) {
-  divPoke.innerHTML = `${pokemonInfo.name} + ${pokemonInfo.order}`;
-}
-
+        
+    }
+)
