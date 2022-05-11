@@ -7,11 +7,10 @@ class Pilha {
     
     desempilha() {
         try {
-            let valor = this.pilha[-1];
-            if(valor == undefined ) {
+            if(this.pilha.length == 0 ) {
                 throw new Error ('pilha vazia');
             } else {
-                console.log(`Ultimo valor da pilha foi ${valor}`);
+                console.log(`Ultimo valor da pilha foi ${this.pilha.pop()}`);
             }  
         }
         catch (erro){
@@ -19,4 +18,22 @@ class Pilha {
         } 
 
     }
+
+    exibePilha() {
+        return this.pilha;
+    };
 }
+
+
+let pilha = new Pilha();
+pilha.empilha(1);
+pilha.empilha(2);
+pilha.empilha(3);
+pilha.empilha(4);
+console.log(pilha.exibePilha());
+
+pilha.desempilha(1);
+pilha.desempilha(2);
+pilha.desempilha(3);
+pilha.desempilha(4);
+console.log(pilha.exibePilha());
