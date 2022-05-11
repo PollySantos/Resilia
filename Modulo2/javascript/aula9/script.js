@@ -14,6 +14,12 @@ class Gato {
     
 }
 
+const amelie = new Gato('Kaguro', 6, 'F');
+
+const poliana = new Gato('Poliana', 29, 'F');
+
+const pedro = new Gato('Pedro', 22, 'M')
+
     
 
    

@@ -18,7 +18,5 @@ class Pilha {
             console.log(erro);
         } 
 
-        
-    
     }
 }
