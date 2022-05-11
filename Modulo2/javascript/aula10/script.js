@@ -24,7 +24,7 @@ class Pilha {
     };
 }
 
-
+// Executado no code run ou navegador
 let pilha = new Pilha();
 pilha.empilha(1);
 pilha.empilha(2);
@@ -32,6 +32,7 @@ pilha.empilha(3);
 pilha.empilha(4);
 console.log(pilha.exibePilha());
 
+// testando a retirada do obejto da pilha
 pilha.desempilha(1);
 pilha.desempilha(2);
 pilha.desempilha(3);
