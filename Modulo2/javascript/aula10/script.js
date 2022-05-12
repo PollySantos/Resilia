@@ -32,7 +32,7 @@ pilha.empilha(3);
 pilha.empilha(4);
 console.log(pilha.exibePilha());
 
-// testando a retirada do obejto da pilha
+// testando a retirada do objeto da pilha
 pilha.desempilha(1);
 pilha.desempilha(2);
 pilha.desempilha(3);
