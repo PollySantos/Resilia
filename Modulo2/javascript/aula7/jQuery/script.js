@@ -1,4 +1,5 @@
-let espacoPokemon = $('#poke-info');
+let espacoPokemon = $('#poke-info')
+
 
 $('#pesquisar').click(function(event){
     event.preventDefault();

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=PT+Sans&display=swap" rel="stylesheet">
+  <link href="./css/style.css" rel="stylesheet">
+  <title>Picture of day - NASA</title>
+</head>
+
+<body>
+
+    <header>
+        <img id="logo" src="./imagens/logo-nasa.png" alt="logo da Nasa">
+        <h1>Astronomy Piture of the Day</h1>
+        <audio src="./audio/space_sound.mp4" autoplay controls loop>audio></audio>
+    </header>
+    
+    <div class="container">
+      <input id="selectDate" type="date">
+      <button id="bnt">Buscar</button>
+        <div id="titulo"></div>
+
+        <div class="content">
+          <div id="texto"></div>
+          <div id="imagem"></div>
+        </div>
+    </div>
+
+
+        <footer>
+           <p class="rodape"><a href="https://www.linkedin.com/in/polianasantoss/" target="_blank"><strong>Desenvolvido por Poliana Santos </strong></a> &nbsp; ©Copyright 2022</p>
+        </footer>
+
+        <script src="./js/script.js"></script>
+        <script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk="
+        crossorigin="anonymous"></script>
+  
+</body>
+</html>
