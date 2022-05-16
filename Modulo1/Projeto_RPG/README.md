@@ -29,7 +29,7 @@
   
   <h2 id="link">Link do projeto</h2>
 
-  https://pollysantos.github.io/Resilia/Modulo1/Projeto_modulo1_Resilia/
+  https://pollysantos.github.io/RPG_JogodeEscolhas/
 
 <div id="autor" align="center">
   
