@@ -41,7 +41,7 @@
 
 ## Link Github Pages
 
-pollysantos.github.io/projeto_apod_nasa/
+https://pollysantos.github.io/Projeto_APOD_Nasa/
 
 <hr>
 
